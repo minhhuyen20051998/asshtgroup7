@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" Runat="Server">
     <br />
-                img:
+             
                 <asp:Label ID="imgLabel" runat="server" Text='<%# Bind("img") %>' />
                 <br />
     <asp:Image runat="server" ImageUrl="~/Images/banner-copy.jpg" />

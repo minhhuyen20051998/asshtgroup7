@@ -3,9 +3,7 @@
 <asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
     <section class="featured">
         <div class="content-wrapper">
-              <br />
-            <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/banner-copy.jpg" /> 
-            <br />
+         
             <hgroup class="title">
                 
             </hgroup>
