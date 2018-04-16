@@ -16,8 +16,8 @@
         sách phải là cả một nghệ thuật. Do vậy, điều cần nhất là làm sao phối hợp nhịp nhàng giữa sách với chức năng của ngôi nhà chúng ta.
 
     </article>
-    <br />
-    <h2><b>Giới thiệu tác phẩm "Những chân trời Mỹ"</b></h2>   
+    <br /><br />
+    <h1><b>Giới thiệu tác phẩm "Những chân trời Mỹ"</b></h1>   
      
    
    
