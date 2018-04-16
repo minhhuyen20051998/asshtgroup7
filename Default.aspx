@@ -4,8 +4,7 @@
     <section class="featured">
         <div class="content-wrapper">
               <br />
-     
-            <asp:Label ID="imgLabel" runat="server" Text='<%# Bind("img") %>' />
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/banner-copy.jpg" /> 
             <br />
             <hgroup class="title">
                 
