@@ -4,14 +4,17 @@
     <section class="featured">
         <div class="content-wrapper">
             <hgroup class="title">
-                <h1><%: Title %>.</h1>
-                <h2>Modify this template to jump-start your ASP.NET application.</h2>
+                
             </hgroup>
             <p>
-                To learn more about ASP.NET, visit <a href="http://asp.net" title="ASP.NET Website">http://asp.net</a>. 
-                The page features <mark>videos, tutorials, and samples</mark> to help you get the most from 
-                ASP.NET. If you have any questions about ASP.NET visit 
-                <a href="http://forums.asp.net/18.aspx" title="ASP.NET Forum">our forums</a>.
+                Mỗi cuốn sách đều chứa đựng một phần thông tin.
+                 Sách là bản văn hữu ích theo nhiều cách khác nhau. 
+                Không chỉ gần gũi, thân quen với con người,
+                 sách còn là phẩm vật thông dụng nhất trong những đồ vật ở 
+                nhà và cũng là tài sản quý giá nhất được lưu giữ trong ngôi nhà của chúng ta. 
+                Tuy nhiên, sống với sách phải là cả một nghệ thuật. 
+                Do vậy, điều cần nhất là làm sao phối hợp nhịp nhàng giữa sách với chức năng của ngôi nhà chúng ta.
+                
             </p>
         </div>
     </section>
