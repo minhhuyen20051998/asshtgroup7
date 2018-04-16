@@ -72,8 +72,7 @@
         <div class="content-wrapper">
             <div class="float-left">
                 <p>
-                    &copy; <%: DateTime.Now.Year %> - My ASP.NET Application
-                </p>
+                    &copy; <%: DateTime.Now.Year %> © 2016 - Bản quyền của Công ty Cổ phần Văn hóa Sách Sài Gòn - Saigon Books. Địa chỉ 97 Nguyễn Bỉnh Khiêm, P. Đakao, Q1, HN
             </div>
         </div>
     </footer>
