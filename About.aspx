@@ -2,7 +2,9 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
-        <h1><%: Title %>.</h1>
+        <h1><%: Title %>.</h1><p>
+            df
+                              </p>
       <br />
         <b>SỐNG VỚI SÁCH</b>
     </hgroup>
@@ -17,6 +19,13 @@
 
     </article>
 
+     <b>Giới thiệu tác phẩm "Những chân trời Mỹ"</b>
+
+      <article>
+     "Những chân trời Mỹ" là kết quả mấy chục năm phiêu lãng của
+           một người trên đất nước Hoa Kỳ mênh mông như một lục địa,
+
+    </article>
     <aside>
        
       
