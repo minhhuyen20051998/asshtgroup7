@@ -6,7 +6,7 @@
       <br />
         <b>SỐNG VỚI SÁCH</b>
     </hgroup>
-
+     <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/logo1.jpg" />
     <article>
       Mỗi cuốn sách đều chứa đựng một phần thông tin.
          Sách là bản văn hữu ích theo nhiều cách khác nhau. 
