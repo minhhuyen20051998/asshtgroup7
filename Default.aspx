@@ -3,13 +3,14 @@
 <asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
     <section class="featured">
         <div class="content-wrapper">
+              <br />
+     
+            <asp:Label ID="imgLabel" runat="server" Text='<%# Bind("img") %>' />
+            <br />
             <hgroup class="title">
                 
             </hgroup>
-              <br />
-            img:
-            <asp:Label ID="imgLabel" runat="server" Text='<%# Bind("img") %>' />
-            <br />
+            
             
             <p><b>
                 Mỗi cuốn sách đều chứa đựng một phần thông tin.
