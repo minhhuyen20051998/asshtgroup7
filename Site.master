@@ -28,9 +28,7 @@
                 <p class="site-title"><a id="A1" runat="server" href="~/Default.aspx">
                     <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/logo1.jpg" /></a></p>
             </div>
-                 <br />
-            <asp:Image ID="Image2" runat="server" ImageUrl="~/Images/banner-copy.jpg" /> 
-            <br />
+
             <div class="float-right">
                 <section id="login">
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
@@ -59,7 +57,9 @@
                     </ul>
                 </nav>
             </div>
-        
+                         <br />
+            <asp:Image ID="Image2" runat="server" ImageUrl="~/Images/banner-copy.jpg" /> 
+            <br />
         </div>
     </header>
     <div id="body">
