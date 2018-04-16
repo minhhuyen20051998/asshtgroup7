@@ -18,14 +18,7 @@
     </article>
 
     <aside>
-        <h3>Aside Title</h3>
-        <p>        
-            Use this area to provide additional information.
-        </p>
-        <ul>
-            <li><a runat="server" href="~/">Home</a></li>
-            <li><a runat="server" href="~/About.aspx">About</a></li>
-            <li><a runat="server" href="~/Contact.aspx">Contact</a></li>
-        </ul>
+       
+      
     </aside>
 </asp:Content>
