@@ -106,7 +106,7 @@
             <asp:Parameter Name="tensanpham" Type="String" />
             <asp:Parameter Name="Gia" Type="Decimal" />
             <asp:Parameter Name="Motasanpham" Type="String" />
-            <asp    :Parameter Name="img" Type="String" />
+            <asp:Parameter Name="img" Type="String" />
             <asp:Parameter Name="id_Sanpham" Type="Int32" />
         </UpdateParameters>
     </asp:SqlDataSource>
