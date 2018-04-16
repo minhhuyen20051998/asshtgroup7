@@ -7,7 +7,7 @@
              
                 <asp:Label ID="imgLabel" runat="server" Text='<%# Bind("img") %>' />
                 <br />
-    <asp:Image runat="server" ImageUrl="~/Images/banner-copy.jpg" />
+   
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" Runat="Server">
     <section class="featured">
