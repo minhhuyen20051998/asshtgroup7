@@ -2,8 +2,8 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
-        <h1><%: Title %>.</h1>
-        <h2>Your contact page.</h2>
+        <h1>Liên Hệ</h1>
+        <h2>Liên hệ với chúng tôi</h2>
     </hgroup>
 
     <section class="contact">
@@ -40,11 +40,11 @@
 
     <section class="contact">
         <header>
-            <h3>Address:</h3>
+            <h3>Địa chỉ</h3>
         </header>
         <p>
-            One Microsoft Way<br />
-            Redmond, WA 98052-6399
+            
+           Địa chỉ 97 Nguyễn Bỉnh Khiêm, P. Đakao, Q1, HN
         </p>
     </section>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3722.819508209664!2d105.70774781450572!3d21.079869885970638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134541686071595%3A0xb56b76110bf03d31!2zxJDGsOG7nW5nIDQyMiwgxJBhbiBQaMaw4bujbmcsIEjDoCBO4buZaSwgVmlldG5hbQ!5e0!3m2!1sen!2s!4v1523786994935" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
