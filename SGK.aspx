@@ -8,7 +8,7 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" Runat="Server">
     <section class="featured">
         <div class="content-wrapper">
-        <asp:FormView ID="FormView1" runat="server" DataKeyNames="id_Sanpham" DataSourceID="SqlDataSource1">
+        <asp:FormView ID="FormView1" runat="server" DataKeyNames="id_Sanpham" DataSourceID="SqlDataSource1" AllowPaging="True">
             <EditItemTemplate>
                 id_Sanpham:
                 <asp:Label ID="id_SanphamLabel1" runat="server" Text='<%# Eval("id_Sanpham") %>' />
