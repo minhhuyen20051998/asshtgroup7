@@ -23,10 +23,7 @@
         </Scripts>
     </asp:ScriptManager>
     <header>
-        <div class="content-wrapper">
-            <div class="float-left">
-                <p class="site-title"><a runat="server" href="~/Default.aspx"><asp:Image runat="server" ImageUrl="~/Images/Puter-Giling-320x254.jpg" /></a></p>
-            </div>
+        
             <div class="float-right">
                 <section id="login">
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
@@ -54,6 +51,10 @@
                         <li><a runat="server" href="~/Contact.aspx">Liên Hệ</a></li>
                     </ul>
                 </nav>
+            </div>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title"><a id="A1" runat="server" href="~/Default.aspx"><asp:Image ID="Image1" runat="server" ImageUrl="~/Images/Puter-Giling-320x254.jpg" /></a></p>
             </div>
         </div>
     </header>
