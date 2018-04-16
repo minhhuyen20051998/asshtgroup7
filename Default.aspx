@@ -6,6 +6,11 @@
             <hgroup class="title">
                 
             </hgroup>
+              <br />
+            img:
+            <asp:Label ID="imgLabel" runat="server" Text='<%# Bind("img") %>' />
+            <br />
+            
             <p><b>
                 Mỗi cuốn sách đều chứa đựng một phần thông tin.
                  Sách là bản văn hữu ích theo nhiều cách khác nhau. 
