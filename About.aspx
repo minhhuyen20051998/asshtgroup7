@@ -17,16 +17,14 @@
 
     </article>
     <br />
-     <hgroup class="title">
-        
-      <br /> 
-     <b>Giới thiệu tác phẩm "Những chân trời Mỹ"</b>
-    </hgroup>
+    <h2><b>Giới thiệu tác phẩm "Những chân trời Mỹ"</b></h2>   
+     
+   
    
 
       <article>
-     "Những chân trời Mỹ" là kết quả mấy chục năm phiêu lãng của
-           một người trên đất nước Hoa Kỳ mênh mông như một lục địa,
+     <p> "Những chân trời Mỹ" là kết quả mấy chục năm phiêu lãng của
+           một người trên đất nước Hoa Kỳ mênh mông như một lục địa,</p>
 
     </article>
     <aside>
