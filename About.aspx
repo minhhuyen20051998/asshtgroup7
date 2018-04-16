@@ -8,7 +8,7 @@
     </hgroup>
     
     <article>
-         <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/kinh di/kd1.jpg" />
+         <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/kinh di/kd1.jpg"  ImageAlign="Bottom"/>
      <p> Mỗi cuốn sách đều chứa đựng một phần thông tin.
          Sách là bản văn hữu ích theo nhiều cách khác nhau. 
         Không chỉ gần gũi, thân quen với con người, 
