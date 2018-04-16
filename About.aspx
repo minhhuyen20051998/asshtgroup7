@@ -4,7 +4,7 @@
     <hgroup class="title">
         <h1><%: Title %>.</h1>
       <br />
-        <b>SỐNG VỚI SÁCH</b>
+        <b>Sống với sách</b>
     </hgroup>
     
     <article>
@@ -20,7 +20,7 @@
     
 
     <br /><br /><br />
-    <br /><br /><br />
+    <br />
    
  <b>Giới thiệu tác phẩm "Những chân trời Mỹ"</b>
       <article>
