@@ -6,9 +6,7 @@
          
             <hgroup class="title">
                 
-            </hgroup>
-            
-            
+            </hgroup>              
             <p><b>
                 Mỗi cuốn sách đều chứa đựng một phần thông tin.
                  Sách là bản văn hữu ích theo nhiều cách khác nhau. 
@@ -25,7 +23,7 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <h3>Sách giáo khoa</h3>
-    <asp:FormView ID="FormView1" runat="server" AllowPaging="True" DataKeyNames="id_Sanpham" DataSourceID="SqlDataSource1">
+    <asp:FormView ID="FormView1" runat="server" AllowPaging="True" DataKeyNames="id_Sanpham" DataSourceID="SqlDataSource1" Width="237px">
         <EditItemTemplate>
             id_Sanpham:
             <asp:Label ID="id_SanphamLabel1" runat="server" Text='<%# Eval("id_Sanpham") %>' />
