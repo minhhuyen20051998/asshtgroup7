@@ -3,12 +3,12 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" Runat="Server">
-    
+    <asp:Image runat="server" ImageUrl="~/Images/Sach-moi-cua-Harper-Lee-ban-chay-nhu-Harry-Potter-1.jpg" />
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" Runat="Server">
     <section class="featured">
         <div class="content-wrapper">
-        <asp:FormView ID="FormView1" runat="server" DataKeyNames="id_Sanpham" DataSourceID="SqlDataSource1" AllowPaging="True">
+        <asp:FormView ID="FormView1" runat="server" DataKeyNames="id_Sanpham" DataSourceID="SqlDataSource1">
             <EditItemTemplate>
                 id_Sanpham:
                 <asp:Label ID="id_SanphamLabel1" runat="server" Text='<%# Eval("id_Sanpham") %>' />
@@ -69,7 +69,7 @@
                 img:
                 <asp:Label ID="imgLabel" runat="server" Text='<%# Bind("img") %>' />
                 <br />
-                <asp:Image runat="server" ID="hgf" ImageUrl="<%#Bind('img') %>" />
+                <asp:Image runat />
                 <br />
                 <asp:LinkButton ID="EditButton" runat="server" CausesValidation="False" CommandName="Edit" Text="Edit" />
                 &nbsp;<asp:LinkButton ID="DeleteButton" runat="server" CausesValidation="False" CommandName="Delete" Text="Delete" />
