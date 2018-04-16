@@ -51,7 +51,7 @@
                 <nav>
                     <ul id="menu">
                         <li><a runat="server" href="~/SGK.aspx">SGK</a></li>
-                        <li><a id="A2" runat="server" href="~/Trinh tham.aspx">Ttrinh Thám</a></li>
+                        <li><a id="A2" runat="server" href="~/Trinh tham.aspx">Trinh Thám</a></li>
                          <li><a runat="server" href="~/ngon tinh.aspx">Ngôn Tình</a></li>
                         <li><a runat="server" href="~/Default.aspx">Trang chủ</a></li>
                         <li><a runat="server" href="~/About.aspx">Giới Thiệu</a></li>
