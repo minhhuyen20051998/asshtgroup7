@@ -3,8 +3,6 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
         <h1><%: Title %>.</h1><p>
-            df
-                              </p>
       <br />
         <b>SỐNG VỚI SÁCH</b>
     </hgroup>
@@ -18,7 +16,7 @@
         sách phải là cả một nghệ thuật. Do vậy, điều cần nhất là làm sao phối hợp nhịp nhàng giữa sách với chức năng của ngôi nhà chúng ta.
 
     </article>
-
+    <br /> <p></p>
      <b>Giới thiệu tác phẩm "Những chân trời Mỹ"</b>
 
       <article>
