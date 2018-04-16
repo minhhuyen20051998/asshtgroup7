@@ -26,7 +26,7 @@
         <div class="content-wrapper">
             <div class="float-left">
                 <p class="site-title"><a id="A1" runat="server" href="~/Default.aspx">
-                    <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/Puter-Giling-320x254.jpg"/></a></p>
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/logo.jpg" /></a></p>
             </div>
             <div class="float-right">
                 <section id="login">
