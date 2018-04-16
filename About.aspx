@@ -6,9 +6,9 @@
       <br />
         <b>Sống với sách</b>
     </hgroup>
-    
+   
     <article>
-         <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/kinh di/kd1.jpg"  ImageAlign="Bottom"/>
+         <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/kinh di/kd1.jpg" />
      <p> Mỗi cuốn sách đều chứa đựng một phần thông tin.
          Sách là bản văn hữu ích theo nhiều cách khác nhau. 
         Không chỉ gần gũi, thân quen với con người, 
