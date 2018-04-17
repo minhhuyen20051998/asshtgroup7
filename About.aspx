@@ -18,6 +18,10 @@
 
  <div class="anh1">
      <asp:Image runat="server" ImageUrl="~/Images/kinh di/kd1.jpg" />
+     <p>   Mỗi cuốn sách đều chứa đựng một phần thông tin.
+         Sách là bản văn hữu ích theo nhiều cách khác nhau. Không chỉ gần gũi, thân quen với con người, sách còn là phẩm vật thông dụng nhất trong những đồ vật ở nhà và cũng là tài 
+        sản quý giá nhất được lưu giữ trong ngôi nhà của chúng ta. Tuy nhiên, sống với sách phải là cả một nghệ thuật. Do vậy, điều cần nhất là làm sao phối hợp nhịp
+         nhàng giữa sách với chức năng của ngôi nhà chúng ta.</p>
 
  </div>
     <div class="anh2">
