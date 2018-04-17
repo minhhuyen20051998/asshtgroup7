@@ -1,5 +1,12 @@
 ﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="Contact.aspx.cs" Inherits="Contact" %>
-
+<script>
+    iframe
+    {
+        margin-left:1000px;
+        margin-top:1000px;
+        text-align:center;
+    }
+</script>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
         <h1>Liên Hệ</h1>

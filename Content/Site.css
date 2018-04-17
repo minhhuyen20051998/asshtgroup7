@@ -13,12 +13,7 @@ body {
     margin: 0;
     padding: 0;
 }
-iframe
-{
-    margin-left:1000px;
-    margin-top:1000px;
-    text-align:center;
-}
+
 a {
     color: #333;
     outline: none;
