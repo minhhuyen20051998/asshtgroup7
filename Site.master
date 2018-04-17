@@ -78,9 +78,7 @@
             <div class="float-left">
                 <p>
                     &copy; <%: DateTime.Now.Year %> <p>935 W. Webster Ave New Streets Chicago, IL 60614, NY</p>
-							<p>Newyork USA</p>
 							<p>Mobile: +2346 17 38 93</p>
-							<p>Fax: 1-714-252-0026</p>
 							<p>Email: info@e-shopper.com</p>
                     Bản quyền của Công ty Cổ phần Văn hóa Sách Sài Gòn - Saigon Books. Địa chỉ 97 Nguyễn Bỉnh Khiêm, P. Đakao, Q1, HN
             </div>
