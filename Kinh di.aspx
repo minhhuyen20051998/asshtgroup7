@@ -71,9 +71,7 @@
             img:
             <asp:Label ID="imgLabel" runat="server" Text='<%# Bind("img") %>' />
             <br />
-               <br />
-            <asp:Image ID="jhsd" runat="server" ImageUrl="<%#Bind('img') %>" />
-            <br />
+          
               <br />
             <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/kinh di/kd1.jpg"/>
             <br />
