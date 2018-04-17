@@ -74,6 +74,9 @@
                <br />
             <asp:Image ID="jhsd" runat="server" ImageUrl="<%#Bind('img') %>" />
             <br />
+              <br />
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/kinh di/kd1.jpg"/>
+            <br />
             <asp:LinkButton ID="EditButton" runat="server" CausesValidation="False" CommandName="Edit" Text="Edit" />
             &nbsp;<asp:LinkButton ID="DeleteButton" runat="server" CausesValidation="False" CommandName="Delete" Text="Delete" />
             &nbsp;<asp:LinkButton ID="NewButton" runat="server" CausesValidation="False" CommandName="New" Text="New" />
