@@ -75,26 +75,26 @@
             &nbsp;<asp:LinkButton ID="DeleteButton" runat="server" CausesValidation="False" CommandName="Delete" Text="Delete" />
             &nbsp;<asp:LinkButton ID="NewButton" runat="server" CausesValidation="False" CommandName="New" Text="New" />
         </ItemTemplate>
-    </asp:FormView>
-    <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\admin\Desktop\asshtgroup7\trunk\App_Code\CSDL_QLBS.mdf;Integrated Security=True;Connect Timeout=30" DeleteCommand="DELETE FROM [Sanpham] WHERE [id_Sanpham] = @id_Sanpham" InsertCommand="INSERT INTO [Sanpham] ([id_Danhmuc], [tensanpham], [Gia], [Motasanpham], [img]) VALUES (@id_Danhmuc, @tensanpham, @Gia, @Motasanpham, @img)" ProviderName="System.Data.SqlClient" SelectCommand="SELECT [id_Sanpham], [id_Danhmuc], [tensanpham], [Gia], [Motasanpham], [img] FROM [Sanpham]" UpdateCommand="UPDATE [Sanpham] SET [id_Danhmuc] = @id_Danhmuc, [tensanpham] = @tensanpham, [Gia] = @Gia, [Motasanpham] = @Motasanpham, [img] = @img WHERE [id_Sanpham] = @id_Sanpham">
-        <DeleteParameters>
-            <asp:Parameter Name="id_Sanpham" Type="Int32" />
-        </DeleteParameters>
-        <InsertParameters>
-            <asp:Parameter Name="id_Danhmuc" Type="Int32" />
-            <asp:Parameter Name="tensanpham" Type="String" />
-            <asp:Parameter Name="Gia" Type="Decimal" />
-            <asp:Parameter Name="Motasanpham" Type="String" />
-            <asp:Parameter Name="img" Type="String" />
-        </InsertParameters>
-        <UpdateParameters>
-            <asp:Parameter Name="id_Danhmuc" Type="Int32" />
-            <asp:Parameter Name="tensanpham" Type="String" />
-            <asp:Parameter Name="Gia" Type="Decimal" />
-            <asp:Parameter Name="Motasanpham" Type="String" />
-            <asp:Parameter Name="img" Type="String" />
-            <asp:Parameter Name="id_Sanpham" Type="Int32" />
-        </UpdateParameters>
-    </asp:SqlDataSource>
+</asp:FormView>
+<asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\admin\Desktop\asshtgroup7\trunk\App_Code\CSDL_QLBS.mdf;Integrated Security=True;Connect Timeout=30" DeleteCommand="DELETE FROM [Sanpham] WHERE [id_Sanpham] = @id_Sanpham" InsertCommand="INSERT INTO [Sanpham] ([id_Danhmuc], [tensanpham], [Gia], [Motasanpham], [img]) VALUES (@id_Danhmuc, @tensanpham, @Gia, @Motasanpham, @img)" ProviderName="System.Data.SqlClient" SelectCommand="SELECT [id_Sanpham], [id_Danhmuc], [tensanpham], [Gia], [Motasanpham], [img] FROM [Sanpham]" UpdateCommand="UPDATE [Sanpham] SET [id_Danhmuc] = @id_Danhmuc, [tensanpham] = @tensanpham, [Gia] = @Gia, [Motasanpham] = @Motasanpham, [img] = @img WHERE [id_Sanpham] = @id_Sanpham">
+    <DeleteParameters>
+        <asp:Parameter Name="id_Sanpham" Type="Int32" />
+    </DeleteParameters>
+    <InsertParameters>
+        <asp:Parameter Name="id_Danhmuc" Type="Int32" />
+        <asp:Parameter Name="tensanpham" Type="String" />
+        <asp:Parameter Name="Gia" Type="Decimal" />
+        <asp:Parameter Name="Motasanpham" Type="String" />
+        <asp:Parameter Name="img" Type="String" />
+    </InsertParameters>
+    <UpdateParameters>
+        <asp:Parameter Name="id_Danhmuc" Type="Int32" />
+        <asp:Parameter Name="tensanpham" Type="String" />
+        <asp:Parameter Name="Gia" Type="Decimal" />
+        <asp:Parameter Name="Motasanpham" Type="String" />
+        <asp:Parameter Name="img" Type="String" />
+        <asp:Parameter Name="id_Sanpham" Type="Int32" />
+    </UpdateParameters>
+</asp:SqlDataSource>
 </asp:Content>
 
