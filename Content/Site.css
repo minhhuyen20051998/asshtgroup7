@@ -647,8 +647,7 @@ tr.pager td {
 
     /* page content */
     article, aside {
-        text-align:left;
-        font-size:initial;
+
         float: none;
         width: 100%;
     }
