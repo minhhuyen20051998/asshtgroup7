@@ -19,17 +19,6 @@
 
     </article>
 
-    <br /><br /><br />
-    <br />
    
- <b>Giới thiệu tác phẩm "Những chân trời Mỹ"</b>
-      <article>
-     <p> "Những chân trời Mỹ" là kết quả mấy chục năm phiêu lãng của
-           một người trên đất nước Hoa Kỳ mênh mông như một lục địa,</p>
-
-    </article>
-    <aside>
-       <b>Giới thiệu tác phẩm "Những chân trời Mỹ"</b>
-      
-    </aside>
+ 
 </asp:Content>
