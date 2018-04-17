@@ -29,7 +29,7 @@
 
     </article>
     <aside>
-       
+       <b>Giới thiệu tác phẩm "Những chân trời Mỹ"</b>
       
     </aside>
 </asp:Content>
