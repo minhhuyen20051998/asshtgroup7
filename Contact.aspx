@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="Contact.aspx.cs" Inherits="Contact" %>
-<link href="Content/themes/base/Bando.css" rel="stylesheet" />
+
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
         <h1>Liên Hệ</h1>
