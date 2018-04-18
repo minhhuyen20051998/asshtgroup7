@@ -1,4 +1,4 @@
-create database QLBS2
+create database CSDL_QLBS2
 
 create table Nguoidung
 (
