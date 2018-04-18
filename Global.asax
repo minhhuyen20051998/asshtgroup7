@@ -1,5 +1,5 @@
 ﻿<%@ Application Language="C#" %>
-<%@ Import Namespace="QLBS2" %>
+<%@ Import Namespace="QLBS1" %>
 <script runat="server">
 
     void Application_Start(object sender, EventArgs e)
