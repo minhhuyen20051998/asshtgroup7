@@ -43,7 +43,7 @@
                 <asp:TextBox ID="tensanphamTextBox" runat="server" Text='<%# Bind("tensanpham") %>' />
                 <br />
                 Gia:
-                <asp:TextBox ID="GiaTextBox" runat="server" Text='<%# Bind("Gia") %>' />
+                <asp:TextBox ID="GiaTextBox" runat="server" Text='<%# Bind("G") %>' />
                 <br />
                 Motasanpham:
                 <asp:TextBox ID="MotasanphamTextBox" runat="server" Text='<%# Bind("Motasanpham") %>' />
