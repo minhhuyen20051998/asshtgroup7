@@ -1,5 +1,5 @@
 ﻿<%@ Application Language="C#" %>
-<%@ Import Namespace="QuanLyBanSach" %>
+<%@ Import Namespace="QLBS2" %>
 
 <script runat="server">
 
