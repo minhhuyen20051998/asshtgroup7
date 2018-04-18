@@ -1,5 +1,5 @@
 ﻿<%@ Application Language="C#" %>
-<%@ Import Namespace="Quan ly ban sach" %>
+<%@ Import Namespace="Quanlybansach" %>
 <script runat="server">
 
     void Application_Start(object sender, EventArgs e)
