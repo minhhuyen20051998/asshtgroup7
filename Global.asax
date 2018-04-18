@@ -1,5 +1,5 @@
 ﻿<%@ Application Language="C#" %>
-<%@ Import Namespace="Quanlybansach" %>
+<%@ Import Namespace="CSDL_QLBS2" %>
 <script runat="server">
 
     void Application_Start(object sender, EventArgs e)
