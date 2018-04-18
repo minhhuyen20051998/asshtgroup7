@@ -1,5 +1,5 @@
 ﻿<%@ Application Language="C#" %>
-<%@ Import Namespace="CSDL_QLBS2" %>
+<%@ Import Namespace="Quanlybansach" %>
 <script runat="server">
 
     void Application_Start(object sender, EventArgs e)
@@ -8,7 +8,7 @@
         AuthConfig.RegisterOpenAuth();
     }
     
-    void Application_End(object sender, EventArgs e)
+    void Application_End(object sender, EventArgs e)<asp:FormView runat="server"></asp:FormView><asp:FormView runat="server"></asp:FormView>
     {
         //  Code that runs on application shutdown
 
